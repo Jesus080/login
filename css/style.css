@@ -1,0 +1,11 @@
+form {
+    height: 60vh;
+    background-color: #ccc;
+}
+a{
+   text-decoration: none;
+   color: #157347;
+}
+.w-100-text{
+   font-size: 7rem;
+}
